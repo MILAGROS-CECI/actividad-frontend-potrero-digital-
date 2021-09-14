@@ -1,3 +1,9 @@
+
+*{ font-family: verdana,geneva,sans-serif;
+font-size: 18px;
+font-weight: 900px;}
+
+
 h1{ font-size: 37px;
     
 line-height: 46px;
@@ -21,17 +27,10 @@ text-align: justify;}
 img{width: 50%;
 height: 100%;}
 
-ul{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
-    width: 900px;
-}
 
-ol { font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
-    width: 900px;
-    text-align:justify
 
-}
+ol { 
+    text-align:justify;}
+
 
 h3{color: deeppink;}
