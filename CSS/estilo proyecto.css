@@ -1,0 +1,80 @@
+
+
+.navbar {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+ }
+
+
+
+
+ .contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: 40px ;
+}
+
+
+
+.textoencimados {  position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+    .texto-encima2 {
+        position: absolute;
+    top: 70%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: justify;}
+
+
+    p{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 50px; ;}
+
+h1{ font-size: 37px;
+    line-height: 46px;
+font-family: inherit, Helvetica, sans-serif;
+color: #131212;
+text-align: center;
+}
+
+.fotofondo { opacity: 40%;
+ }
+
+
+h2 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align:left;
+
+}
+
+
+
+.card-title{color: rgb(67, 56, 131);
+font-size: large;
+font-style: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;}
+
+
+.article { text-align: justify;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+   
